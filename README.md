@@ -89,7 +89,7 @@ Extracted parameters (from ADE):
   ```
 
 **AC simulation (frequency response)**  
-![ac_final](./Figures/ac_final.png)
+![ac_final](./Figures/ac.png)
 
 ---
 
